@@ -1,5 +1,7 @@
 
 {
   "code-runner.executorMap": { "python": "python3 -u" },
-  "python.defaultInterpreterPath": "/Library/Frameworks/Python.framework/Versions/3.11/bin/python3"
+  "python.defaultInterpreterPath": "/Library/Frameworks/Python.framework/Versions/3.11/bin/python3",
+  "r.lsp.diagnostics": false,
+  "cSpell.enabled": false
 }
